@@ -10,7 +10,7 @@
   <title>Jack Huynh resume</title>
 </head>
 
-<body>
+<body style="background-color: #CBC3E3";>
 <table cellspacing ="20">
   <tr>
     <td><img src="https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/43415506_703778696665975_9042692293244485632_o.jpg?_nc_cat=107&ccb=3&_nc_sid=174925&_nc_ohc=WFhRUUmcE9gAX-UvUnt&_nc_ht=scontent-ort2-2.xx&oh=ff461b580aed3e04d6ec44e9c0849229&oe=605E2B44"
