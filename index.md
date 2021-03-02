@@ -33,9 +33,7 @@
   </ul>
   <hr>
   <h3>EDUCATION </h3>
-  <h4><strong>
-      <p>Seneca College</p>
-    </strong></h4>
+  <strong><p>Seneca College</p></strong>
   <table>
     <table style="width:700px">
       <tr>
