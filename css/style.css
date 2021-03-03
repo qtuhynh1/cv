@@ -1,0 +1,23 @@
+body {
+  background-color:#ffffed;
+  font-family: fantasy;
+}
+
+h1{
+  color: Black;
+  font-family: didot;
+}
+h3{
+  color: #552970;
+}
+.p{
+  font-family: didot;
+}
+
+hr {
+  border-style: none;
+  border-color: black;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+}
