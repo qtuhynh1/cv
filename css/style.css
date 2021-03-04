@@ -7,6 +7,9 @@ h1{
   color: Black;
   font-family: didot;
 }
+h1:hover{
+  color: red;
+}
 h3{
   color: #552970;
 }
@@ -21,8 +24,16 @@ hr {
   border-width: 5px;
   width: 10%;
 }
-
 td{
   color:red;
 }
-
+li{
+  font-size: 17px;
+  font-family: didot;
+}
+h3:hover{
+  color: orange;
+}
+a:hover{
+  color:black;
+}
